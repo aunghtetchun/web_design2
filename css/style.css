@@ -1,0 +1,83 @@
+
+.container-fluid{
+    background-image: url("../image/gallery/background.jpg");
+    background-position: center;
+    width: 100%;
+    height: 650px;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
+}
+.title{
+    opacity: 0.8;
+    background-color: #000000;
+}
+.navbar-nav li a{
+    font-weight: bolder;
+    font-size: 15px;
+}
+.navbar-brand{
+    border: 2px solid white;
+    padding: 3px 23px;
+    font-weight: bolder;
+}
+.image{
+    opacity: 0.8;
+    background-color: #000000;
+    margin-top: 80px;
+}
+.image .carousel-item{
+    height: 510px;
+}
+.font1{
+    font-family: 'Acme', sans-serif;
+    font-size: 20px;
+    margin-top: 20px;
+}
+.title1{
+    font-size: 68px;
+}
+.p-word{
+    color: rgba(90, 93, 96, 0.86);
+    font-size: 14px;
+    font-family: 'Times New Roman';
+}
+.rounded-circle{
+    margin-bottom: 20px;
+}
+.hover-btn{
+    color: rgba(49,49,49,0.86);
+}
+.part{
+    margin-top: 15px;
+    font-size: 14px;
+    font-family: Arial;
+    font-weight: bold;
+    letter-spacing: 1px;
+    color: #3d4347;
+}
+.animate1 {
+    /*animation-duration: 0.5s;*/
+    animation-delay: 0.5s;
+    /*animation-iteration-count: infinite;*/
+}
+.animate2 {
+    animation-duration: 1s;
+    animation-delay: 1s;
+    /*animation-iteration-count: infinite;*/
+}
+.animate3 {
+    animation-duration: 1s;
+    animation-delay: 1.3s;
+    /*animation-iteration-count: infinite;*/
+}
+.animate4 {
+    animation-duration: 1s;
+    animation-delay: 1.5s;
+    /*animation-iteration-count: infinite;*/
+}
+.animate5 {
+    animation-duration: 1s;
+    animation-delay: 1.7s;
+    /*animation-iteration-count: infinite;*/
+}
